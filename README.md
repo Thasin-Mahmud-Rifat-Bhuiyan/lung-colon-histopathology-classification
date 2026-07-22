@@ -1,3 +1,21 @@
+----
+## 📚 Course
+
+Course: Computer Vision
+
+Project: Lung and Colon Histopathological Image Classification
+
+Platform: Google Colab / Python
+---
+## 👨‍💻 Author
+
+Thasin Mahmud Rifat Bhuiyan
+
+Computer Science and Engineering Student
+---
+## ⭐ Acknowledgement
+
+This project was completed as part of a Computer Vision course assignment. The dataset and task requirements were provided by the course instructor.
 # Lung and Colon Histopathology Image Classification
 
 ## 📌 Overview
@@ -81,22 +99,3 @@ Original Histopathological Images
        ▼      ▼      ▼
     Curves  Confusion  Metrics
              Matrix
-
-**## 📚 Course**
-
-Course: Computer Vision
-
-Project: Lung and Colon Histopathological Image Classification
-
-Platform: Google Colab / Python
-**
-##👨‍💻 Author**
-
-Thasin Mahmud Rifat Bhuiyan
-
-Computer Science and Engineering Student
-**
-##⭐ Acknowledgement**
-
-This project was completed as part of a Computer Vision course assignment. The dataset and task requirements were provided by the course instructor.
-
