@@ -82,29 +82,21 @@ Original Histopathological Images
     Curves  Confusion  Metrics
              Matrix
 
-📚 Course
+**## 📚 Course**
 
 Course: Computer Vision
 
 Project: Lung and Colon Histopathological Image Classification
 
 Platform: Google Colab / Python
-
-👨‍💻 Author
+**
+##👨‍💻 Author**
 
 Thasin Mahmud Rifat Bhuiyan
 
 Computer Science and Engineering Student
-
-⭐ Acknowledgement
+**
+##⭐ Acknowledgement**
 
 This project was completed as part of a Computer Vision course assignment. The dataset and task requirements were provided by the course instructor.
 
-
-**Repository:** `lung-colon-histopathology-classification`
-
-**Short description:**  
-> Lung and colon histopathological image classification using image enhancement, quality metrics, and transfer learning with VGG16, ResNet50, MobileNetV2, DenseNet121, and EfficientNetB0.
-
-**Topics/Tags:**  
-`computer-vision` `deep-learning` `medical-image-classification` `histopathology` `transfer-learning` `tensorflow` `keras` `python` `vgg16` `resnet50` `mobilenetv2` `densenet121` `efficientnet` `image-processing`
