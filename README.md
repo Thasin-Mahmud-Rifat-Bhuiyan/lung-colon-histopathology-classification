@@ -1,4 +1,3 @@
-----
 ## 📚 Course
 
 Course: Computer Vision
